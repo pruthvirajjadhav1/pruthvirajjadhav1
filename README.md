@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj</h1>
-<h3 align="center">A passionate Open-Source Enthusiast</h3>
+<h3 align="center">A Open-Source Enthusiast</h3>
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvirajjadhav1&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvirajjadhav1" /> </p>
