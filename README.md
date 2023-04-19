@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj</h1>
-<h3 align="center">A Open-Source Enthusiast</h3>
+<h3 align="center">A Backend Devloper</h3>
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvirajjadhav1&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvirajjadhav1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pruthvirajjad" target="blank"><img src="https://img.shields.io/twitter/follow/pruthvirajjad?logo=twitter&style=for-the-badge" alt="pruthvirajjad" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain Devlopment**
+- 🔭 I’m currently working on **Backend Devlopment**
 
-- 🌱 I’m currently learning **Solidity, React, Docker, Dev-ops.**
+- 🌱 I’m currently learning **Solidity, CI/CD, Docker.**
 
-- 💬 Ask me about **DSA, Frontend, Blockchain, Git.**
+- 💬 Ask me about **DSA, Backend, Blockchain, Git.**
 
 - 📫 How to reach me **pruthvirajjadhav1@gmail.com**
 
