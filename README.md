@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pruthviraj</h1>
+<!-- <h1 align="center">Hi 👋, I'm Pruthviraj</h1>
 <h3 align="center">A Backend Devloper</h3>
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
@@ -31,3 +31,41 @@
 
 <td align="center" style="padding=0;width=50%;"> <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvirajjadhav1&" alt="pruthvirajjadhav1" /></td>
 </tr></table>
+ -->
+
+
+ do reach, [email](mailto:pruthvirajjadhav1@gmail.com) :)
+ 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```txt
+JavaScript   10 hrs 39 mins  █████████████████▓░░░░░░░   70.57 %
+TypeScript   3 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+```
+<!--END_SECTION:waka-->
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
+I'm Narayan Murti's wet dream
+
+<a href="https://www.buymeacoffee.com/pruthvirajjadhav1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+<br clear="right"/>
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pruthvirajjadhav1&show_icons=true&theme=gotham" alt="pruthvirajjadhav1" />
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pruthvirajjadhav1&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvirajjadhav1" /> </p>
